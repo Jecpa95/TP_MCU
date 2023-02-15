@@ -1,2 +1,0 @@
-STM32L021K4T6 : https://www.st.com/en/microcontrollers-microprocessors/stm32l021k4.html
-
