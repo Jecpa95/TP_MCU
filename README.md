@@ -16,6 +16,8 @@
 - C'est la première page qui indique les valeurs des condensateurs, mais on retrouve à la page 1 les valeurs typiques : 
 ![image](https://user-images.githubusercontent.com/125466579/225715611-f8c5215c-45ae-4b72-a6ff-5de95e371cf7.png)
 
+![image](https://user-images.githubusercontent.com/125466579/225714090-1bfb86b0-bb4a-4f74-ba3d-a8e80c10d1ac.png)
+
 - C'est à la page 25 que l'on retrouve l'information : 
 ![image](https://user-images.githubusercontent.com/125466579/225717110-af3f8de6-dfc3-4576-91e5-3cbd194df82e.png)
 
@@ -27,9 +29,7 @@
 
 - la PIN LDAC (latch DAC synchronization input) permet de transféré l'entrée à la sortie du DAC. Lorsque l'entrée est à l'état bas la sortie recopie l'entrée.
 
-![image](https://user-images.githubusercontent.com/125466579/225714090-1bfb86b0-bb4a-4f74-ba3d-a8e80c10d1ac.png)
 
-- 
 
 ![Screenshot](screenshot.png)
 
