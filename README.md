@@ -54,6 +54,9 @@
 
 ![image](https://user-images.githubusercontent.com/125466579/225722762-c4ebb275-a35c-49fa-9091-58092ddcd285.png)
 
+- ![image](https://user-images.githubusercontent.com/125466579/225723387-a52b5978-263f-4a1c-adb6-baf03fdb3d80.png)
+on choisit donc un prescaler à 63, (16000000/1000)/256
+
 
 
 
